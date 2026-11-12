@@ -81,4 +81,15 @@ Aplikacja jest prywatna i działa tylko na kontach zakładanych przez administra
 
 ---
 
-<p align="center">© krngg.dev. Wszelkie prawa zastrzeżone.</p>
+<h3 align="center">Potrzebujesz podobnej aplikacji dla swojej firmy?</h3>
+
+<p align="center">
+  Projektuję i buduję aplikacje mobilne i webowe dopasowane do sposobu, w jaki pracuje Twój zespół.<br>
+  Napisz, czego potrzebujesz, a odezwę się z propozycją.
+</p>
+
+<p align="center">
+  <a href="https://krngg.dev"><b>krngg.dev · kontakt →</b></a>
+</p>
+
+<p align="center"><sub>© krngg.dev. Wszelkie prawa zastrzeżone.</sub></p>
