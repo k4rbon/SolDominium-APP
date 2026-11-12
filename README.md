@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="screenshots/01-logowanie.png" width="220" alt="Ekran logowania SOL DOMINIUM">
+  <img src="screenshots/01-logowanie.png" width="220" alt="Ekran logowania solApp">
 </p>
 
-<h1 align="center">SOL DOMINIUM</h1>
+<h1 align="center">solApp</h1>
 
 <p align="center">
-  Aplikacja mobilna dla ekip montujących instalacje fotowoltaiczne i magazyny energii.<br>
+  Prywatna aplikacja mobilna dla firmy <a href="https://soldominium.pl"><b>SOL DOMINIUM</b></a>, dla ekip montujących instalacje fotowoltaiczne i magazyny energii.<br>
   Android i iOS · projekt i wykonanie: <b>krngg.dev</b>
 </p>
 
@@ -13,7 +13,7 @@
 
 ## O projekcie
 
-SOL DOMINIUM to wewnętrzne narzędzie firmy instalacyjnej. Zastępuje papierowe protokoły, zdjęcia rozrzucone po telefonach i arkusze z magazynem. Monter ma w jednej aplikacji montaże, dokumentację zdjęciową, stany magazynowe, listy materiałów i kalkulator wyceny. Biuro widzi wszystko na bieżąco.
+solApp to wewnętrzne narzędzie firmy [SOL DOMINIUM](https://soldominium.pl), która zajmuje się instalacjami fotowoltaicznymi i magazynami energii. Zastępuje papierowe protokoły, zdjęcia rozrzucone po telefonach i arkusze z magazynem. Monter ma w jednej aplikacji montaże, dokumentację zdjęciową, stany magazynowe, listy materiałów i kalkulator wyceny. Biuro widzi wszystko na bieżąco.
 
 Aplikacja jest prywatna i działa tylko na kontach zakładanych przez administratora. Kod źródłowy nie jest publiczny.
 
